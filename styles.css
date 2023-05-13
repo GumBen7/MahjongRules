@@ -1,0 +1,11 @@
+body {
+	background-color: whitesmoke; margin-left: 50px; 
+	margin-right: 50px; text-indent: 50px; color: darkgreen;
+	text-align: justify;
+}
+
+h1 { text-align: center; font-size: 40pt; color:darkgreen; } 
+h2 { text-indent:  50px; color:darkgreen; }
+h3 { text-indent:  50px; color:darkgreen; }
+img { display: block; margin-left: auto; margin-right: auto; }
+mark { background-color: seashell; color: inherit; }
